@@ -72,3 +72,11 @@ nav ul li a{
 .indicator span.active{
     background-color: #ffffff;
 }
+
+.cta{
+    position: absolute;
+    width: 25%;
+    min-width: 250px;
+    right: 8%;
+    bottom: 100px;
+}
